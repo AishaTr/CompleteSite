@@ -1,0 +1,56 @@
+.footer {
+    position: fixed;
+    background-color:lightgreen;
+    color: grey;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+}
+
+
+
+.edit1{
+background-image: linear-gradient(to right, darkseagreen, lightgoldenrodyellow);
+}
+
+.edit2{
+    text-align: center;
+    color:blanchedalmond;
+    font-family: "American Typewriter", fantasy;
+}
+
+.edit3{
+    color:mediumpurple;
+    font-family: Courier, serif;
+}
+
+.edit4{
+    color: darkslategray;
+    text-align: center;
+
+
+}
+
+.edit5{
+    background-image: linear-gradient(to right, cornsilk, lightsalmon);
+}
+
+.edit6{
+    color: darkslategray;
+    font-family: Copperplate, serif;
+}
+
+.edit7{
+    color: darkblue;
+    font-size: large;
+}
+
+.edit8{
+    max-width: 20%;
+    height: auto;
+
+
+}
+
+
+
